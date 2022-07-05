@@ -1,0 +1,52 @@
+.navbar-brand {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 36px;
+}
+
+nav-item {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+/* hero section */
+.hero-section .btn-cta {
+    margin-top: 50px;
+}
+/* akhir */
+
+/* isi */
+.isi .btn-center{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+.footer {
+background-color: #C4C4C4 ; 
+}
+
+
+
+
+.footer img {
+    width: 20px;
+}
+
+.footer .img-pnh img {
+    width: 10px;
+    height: 10px;
+    text-align: right;
+    font-style: normal;
+}
+
+.footer-copyright {
+    text-align: center;
+}
+
+
+             
